@@ -25,10 +25,9 @@ html {
 }
 
 .banner {
+  max-height: 34em;
   position: relative;
-  max-height: 33.333%;
   overflow: hidden;
-  bottom: inherit;
 }
 
 .banner-content {
