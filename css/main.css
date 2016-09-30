@@ -31,8 +31,9 @@ html {
 }
 
 .banner-content {
-  position: absolute;;
+  position: absolute;
   color: white;
   bottom: 0;
+  left: 320px;
   width: 55%;
 }
