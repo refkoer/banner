@@ -25,7 +25,7 @@ html {
 }
 
 .banner {
-  position: absolute;
+  position: relative;
   max-height: 33.333%;
   overflow: hidden;
   bottom: inherit;
