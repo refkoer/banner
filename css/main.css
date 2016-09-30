@@ -28,9 +28,10 @@ html {
   position: absolute;
   max-height: 33.333%;
   overflow: hidden;
+  bottom: inherit;;
 }
 
 .banner-content {
   position: relative;
-  overflow: auto;
+  color: white;
 }
